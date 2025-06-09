@@ -1,5 +1,6 @@
-pickle
+scikit-learn==1.6.1
+pandas
+numpy
 re
 streamlit
-scikit-learn==1.6.1
 
